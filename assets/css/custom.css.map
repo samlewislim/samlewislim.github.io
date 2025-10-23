@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["custom.scss"],"names":[],"mappings":"AACA,iEAGE,oCACA","sourcesContent":["// Custom CSS for profile image rotation\n.profile .profile-img img,\n.about .profile img,\nimg[src*=\"prof_pic\"] {\n transform: rotate(-90deg) !important;\n transform-origin: center center;\n}"],"file":"custom.css"}
