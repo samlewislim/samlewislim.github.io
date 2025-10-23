@@ -1,0 +1,10 @@
+---
+---
+
+// Custom CSS for profile image rotation
+.profile .profile-img img,
+.about .profile img,
+img[src*="prof_pic"] {
+  transform: rotate(-90deg) !important;
+  transform-origin: center center;
+}
