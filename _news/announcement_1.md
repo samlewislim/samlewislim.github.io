@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper on [Chain-of-Thought reasoning influence and faithfulness](https://arxiv.org/abs/2510.21007) was accepted to EMNLP 2025 main conference! 🎉 
+Our paper on [Chain-of-Thought reasoning influence and faithfulness](https://arxiv.org/abs/2510.21007) was accepted to EMNLP 2025 main conference! 🎉🎉🎉 
