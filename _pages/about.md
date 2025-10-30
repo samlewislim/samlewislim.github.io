@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  image_style: "transform: rotate(-90deg);" # Rotate 90 degrees to the left
+  image_style: "" 
   more_info:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -25,8 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in the Natural Language Processing group at the University of Sheffield, supervised by [Nikos Aletras](https://nikosaletras.com/) and [Cass Zhao](https://casszhao.github.io/cass/). Prior to my PhD, I was a software engineer working in financial tech.
+I am a PhD student in the [Natural Language Processing group](https://sheffield.ac.uk/cs/research/groups/natural-language-processing) at the University of Sheffield, supervised by [Nikos Aletras](https://nikosaletras.com/) and [Cass Zhao](https://casszhao.github.io/cass/). I hold an MSc in Computer Science with Speech and Language Processing from the University of Sheffield. Prior to my PhD, I worked as a software engineer at Dojo, a financial technology company in London.
 
-My research focuses on trustworthy reasoning for Large Language Models. I am particularly interested in Chain-of-Thought and explanation faithfulness, and uncertainty quantification for reasoning LLMs. 
-
-
+My current research focuses on trustworthy reasoning in Large Language Models (LLMs), including improving the faithfulness of Chain-of-Thought (CoT) reasoning and developing methods to quantify uncertainty in model reasoning.
