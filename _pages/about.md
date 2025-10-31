@@ -25,6 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in the [Natural Language Processing group](https://sheffield.ac.uk/cs/research/groups/natural-language-processing) at the University of Sheffield, supervised by [Nikos Aletras](https://nikosaletras.com/) and [Cass Zhao](https://casszhao.github.io/cass/). I hold an MSc in Computer Science with Speech and Language Processing from the University of Sheffield. Prior to my PhD, I worked as a software engineer at Dojo, a financial technology company in London.
+I am a PhD student in the [Natural Language Processing group](https://sheffield.ac.uk/cs/research/groups/natural-language-processing) at the University of Sheffield, supervised by [Nikos Aletras](https://nikosaletras.com/) and [Cass Zhao](https://casszhao.github.io/cass/). Before starting my PhD, I completed an MSc in Computer Science with Speech and Language Processing at Sheffield and previously worked as a software engineer at Dojo, a financial technology company in London.
 
-My current research focuses on trustworthy reasoning in Large Language Models (LLMs), including improving the faithfulness of Chain-of-Thought (CoT) reasoning and developing methods to quantify uncertainty in model reasoning.
+My current research focuses on trustworthy reasoning in LLMs, including improving the faithfulness of Chain-of-Thought reasoning and developing methods to quantify uncertainty in model reasoning.
