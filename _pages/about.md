@@ -27,4 +27,4 @@ latest_posts:
 
 I am a PhD student in the [Natural Language Processing group](https://sheffield.ac.uk/cs/research/groups/natural-language-processing) at the University of Sheffield, supervised by [Nikos Aletras](https://nikosaletras.com/) and [Cass Zhao](https://casszhao.github.io/cass/). Before starting my PhD, I completed an MSc in Computer Science with Speech and Language Processing at Sheffield and previously worked as a software engineer at Dojo, a financial technology company in London.
 
-My current research focuses on trustworthy reasoning in LLMs, including improving the faithfulness of Chain-of-Thought reasoning and developing methods to quantify uncertainty in model reasoning.
+My current research focuses on trustworthy reasoning in LLMs, including improving the faithfulness of Chain-of-Thought reasoning and developing methods to quantify uncertainty in model reasoning. Feel free to contact me at me email: slewis-lim1[at]sheffield.ac.uk
