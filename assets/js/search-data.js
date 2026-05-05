@@ -22,6 +22,9 @@ ninja.data = [{
           section: "News",},{id: "news-new-preprint-can-confidence-estimates-decide-when-chain-of-thought-is-necessary-for-llms",
           title: '📄 New Preprint: Can Confidence Estimates Decide When Chain-of-Thought Is Necessary for LLMs?...',
           description: "",
+          section: "News",},{id: "news-new-preprint-exploring-monitorability-of-modality-reliance-in-vlms-reasoning-dynamics-and-the-limits-of-monitoring-modality-reliance-in-vision-language-models",
+          title: '📄 New Preprint exploring monitorability of modality reliance in VLMs: Reasoning Dynamics and...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
