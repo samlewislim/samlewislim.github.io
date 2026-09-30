@@ -4,7 +4,23 @@
 @string{emnlp = {Empirical Methods in Natural Language Processing,}}
 @string{iclr = {International Conference on Learning Representations,}}
 @string{neurips = {Advances in Neural Information Processing Systems,}}
+@string{COLM = {Conference on Language Modeling,}}
 
+
+@inproceedings{
+  villegas2026reasoning,
+  abbr={COLM},
+  title={Reasoning Dynamics and the Limits of Monitoring Modality Reliance in Vision-Language Models},
+  author={Danae Sanchez Villegas and Samuel Lewis-Lim and Nikolaos Aletras and Desmond Elliott},
+  publisher=COLM,
+  abstract={Recent advances in vision language models (VLMs) offer reasoning capabilities, yet how these unfold and integrate visual and textual information remains unclear. We analyze reasoning dynamics in 18 VLMs covering instruction-tuned and reasoning-trained models from two different model families. We track confidence over Chain-of-Thought (CoT), measure the corrective effect of reasoning, and evaluate the contribution of intermediate reasoning steps. We find that models are prone to answer inertia, in which early commitments to a prediction are reinforced, rather than revised during reasoning steps. While reasoning-trained models show stronger corrective behavior, their gains depend on modality conditions, from text-dominant to vision-only settings. Using controlled interventions with misleading textual cues, we show that models are consistently influenced by these cues even when visual evidence is sufficient, and assess whether this influence is recoverable from CoT. Although this influence can appear in the CoT, its detectability varies across models and depends on what is being monitored. Reasoning-trained models are more likely to explicitly refer to the cues, but their longer and fluent CoTs can still appear visually grounded while actually following textual cues, obscuring modality reliance. In contrast, instruction-tuned models refer to the cues less explicitly, but their shorter traces reveal inconsistencies with the visual input. Taken together, these findings indicate that CoT provides only a partial view of how different modalities drive VLM decisions, with important implications for the transparency and safety of multimodal systems.},
+  booktitle={Third Conference on Language Modeling},
+  selected={true},
+  note={(Accepted to COLM 2026)},
+  year={2026},
+  arxiv={2604.14888},
+  url={https://openreview.net/forum?id=YV2d7n8uMm}
+}
 @inproceedings{lewis-lim2025emnlp,
   abbr={EMNLP},
   title={Analysing Chain of Thought Dynamics: Active Guidance or Unfaithful Post-hoc Rationalisation?},
@@ -19,6 +35,8 @@
   arxiv={2508.19827},
   url={https://arxiv.org/pdf/2508.19827}
 }
+
+
 
 
 % You can use tools like Google Scholar or DBLP to export BibTeX entries
