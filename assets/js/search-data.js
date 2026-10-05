@@ -25,8 +25,8 @@ ninja.data = [{
           section: "News",},{id: "news-think-when-unsure-leveraging-model-confidence-to-decide-when-to-use-chain-of-thought-has-been-accepted-to-aacl-findings-2026",
           title: 'Think When Unsure: Leveraging Model Confidence to Decide When to Use Chain-of-Thought has...',
           description: "",
-          section: "News",},{id: "news-new-preprint-looking-the-effect-of-efficent-reasoning-training-on-cot-faithfulness-and-monitorability-efficient-reasoning-training-does-not-always-harm-cot-faithfulness-and-monitorability",
-          title: '📄 New preprint looking the effect of efficent reasoning training on CoT faithfulness...',
+          section: "News",},{id: "news-new-preprint-looking-the-effect-of-efficient-reasoning-training-on-cot-faithfulness-and-monitorability-efficient-reasoning-training-does-not-always-harm-cot-faithfulness-and-monitorability",
+          title: '📄 New preprint looking the effect of efficient reasoning training on CoT faithfulness...',
           description: "",
           section: "News",},{
         id: 'social-email',
