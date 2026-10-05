@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Reasoning Dynamics and the Limits of Monitoring Modality Reliance in Vision-Language Models](https://arxiv.org/abs/2604.14888) has been accepted to COLM 2026! I will be presenting this in San Francisco in October 🌉🌉🌉
+🌉🌉🌉 [Reasoning Dynamics and the Limits of Monitoring Modality Reliance in Vision-Language Models](https://arxiv.org/abs/2604.14888) has been accepted to COLM 2026!!! I will be presenting this in San Francisco in October 
